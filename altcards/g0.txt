@@ -1,0 +1,51 @@
+48
+278910501
+sStone Wing Gate
+sGate of Rays
+sBaxter Sea
+sCarpus Crypt
+sGatecrash
+sSacra Raga
+sAbbot's Cavern
+sGloomicron
+gTyr Sixteen
+gGarvarion
+gHorus M
+gQuasar Machine
+gMyriad Hades
+gAtmos
+gGate Mantha
+gUltra Dragonoid
+cCrelos
+cSuper Phantom
+cFlux Chamber
+cAdamantine Seal
+cTitanium Seal
+cCarbon Seal
+cHaunted Castle
+cDragonoid Nexus
+RGuard Hammer
+RMoon Lance
+RSkull Shogun
+RSpirit Sabre
+RGreat Mountain Breaker
+RWind Blade
+RWater Blade
+RFire Blade
+BQuaking Phoenix
+BGranite Gauntlet
+BShadow Avatar
+BTeamwork Haos
+BTeamwork Aquos
+BTeamwork Ventus
+BLightning Berserker
+BTimber Berserker
+GAnemoy's Call
+GHefestus' Call
+GPosidon's Call
+GBanish Trickery
+GRelish Victory
+GFreezer
+GWhiplash
+GStug
+/

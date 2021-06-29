@@ -1,0 +1,21 @@
+18
+278867208
+sVolcanic Island
+sTorch Gate
+sGeyser Gate
+sFlares
+sDeep Lake Gate
+sBurning Sea Gate
+gDust in the Wind
+gSolid Rock Gate
+gWindy Gate 
+gWalled Gate
+gHigh Altitude Gate
+gRock Storm Gate
+cPartial Eclipse
+sSunburn Gate
+cDarkness Gate
+cGate of Swollen Eyes
+cBlindfold Gate
+cSearing Dawn
+/

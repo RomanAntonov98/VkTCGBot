@@ -1,0 +1,51 @@
+48
+279224282
+sVR Arena Number 9
+sVR Arena Number 10
+sVR Arena Number 11
+sVR Arena Number 12
+sShort Shadow
+sRedirect
+sSilver Shot
+sAG Island
+gGolden Shot
+gSpectral Mix
+gColor Mix
+gAkwimos' Focus
+gDouble Shot
+gHelix Dragonoid
+gAU Island
+gCursed Field
+cCopper Shot
+cDark Earth
+cHazard Field
+cMoll Field
+cCU Island
+cMoth to Flame
+cPower Ray
+cTechtonics
+RPracticed Wind
+RDouble Edge
+RDetect Shrimp
+RExo Swarm
+RDark Wind Master
+RSun Fire Master
+RClean the Table
+RSuper Shake
+BWeld Machine
+BStand Tall
+BDouble Whoop
+BDouble Whomp
+BDouble Mud Slap
+BDouble Night Wind
+BBoulder Crush
+BDouble Bright Fire
+GSilver Wish
+GGolden Wish
+GSecond Best
+GSpecial Mirror
+GBackdraft
+GSand Castle
+GSpidero
+GCopper Flame
+/

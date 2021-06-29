@@ -1,0 +1,21 @@
+18
+278868397
+sHigh Flying Gate
+sSwimmers Gate
+sCloud Burst
+sRipples and Waves
+sKite Flying Gate
+U--
+gDark 30 Gate
+gClay Gate
+gShadows at Night
+gThe Caves
+gMystery Gate
+gBrick Gate
+cWarm Gate
+cYellow Gate
+cFiery Sunset
+cStars and Planets
+cFire Swamp Gate
+cRous Gate
+/

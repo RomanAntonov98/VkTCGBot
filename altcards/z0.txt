@@ -1,0 +1,51 @@
+48
+279184215
+sVR Arena #1
+sVR Arena #2
+sVR Arena #3
+sVR Arena #4
+sWeak Wind
+sDull Flame
+sSilver Sword
+sThe AG Plateau
+gGolden Sword
+gStrikeflier
+gAranaut's Turf
+gHawktor's Turf
+gAvior
+gSnapzoid
+gThe AU Plateau
+gPhosphos Armory
+cCopper Sword
+cRickety Bridge
+cFire Reflection
+cPoison Ground
+cThe CU Plateau
+cStrikeflier's Trick
+cTwisted Cave
+cPit of Despair
+RDoom Wind Start
+RPractice
+RBig and Windy
+RBig and Bright
+RHelix Dragonoid
+REarthquake Stomp
+RDead Calm
+RFlash Lance
+BShield Smash
+BFully Prepared
+BG-Power Up
+BG-Power Surge
+BArmor Pierce
+BLate Tide
+BLate Storm
+BLate Sunrise
+GBoil
+GWash
+GMirror Element
+GConform
+GCoredem
+GDharak
+GLumagrowl
+GSlap Back
+/

@@ -1,0 +1,51 @@
+48
+278899329
+sClean Woods
+sClean River
+sSunny Plains
+sWarming Trends
+sReduce
+sRecycle
+sReuse
+sDeep Cave
+gUnder Current
+gBeneficial Wind
+gHydro Power
+gStarry Night
+gRecharge
+gEnergize
+gViper Helios
+gFlash Hurricane
+cLimbo Gate
+cSpectrum Null Gate
+cBuilding Blocks
+cAltair
+cTri-Color Fist
+cTri-Color Boot
+cVariety's Curse
+cHate Gate
+RDan and Marucho
+RMira and Shun
+RAce and Baron
+RPeek
+RWired
+RDark Snap
+RLight Snap
+RWater Snap
+BCopper Boost
+BBronze Boost
+BGolden Boost
+BElico Pop
+BGraveyard Fire
+BGraveyard Howl
+BGraveyard Candle
+BLandmine Pyro
+GSub Terra Vexos
+GPyrus Vexos
+GHaos Vexos
+GWindmills
+GDouble Switch
+GDouble Trap
+GIngram Beam
+GSuper Quake
+/

@@ -1,0 +1,51 @@
+48
+278868131
+sFlame Portal
+sCavern Portal
+sLight Portal
+sWind Portal
+sAtlantic Arena
+sShadow Arena
+sFlame Arena
+sSun Arena
+gDual Elfin
+gVulcan
+gHades
+gMega Nemus
+gCleansing Fire
+gMudslide Nexus
+gRadiant Nexus
+gHellstorm
+cOverhang
+cRiver Valley
+cHigh Ground
+cDark Tunnel
+cMirror Gate
+cPrism Gate
+cTrap Door
+cDarkness Chamber
+RRainbow Portal
+RRainbow Prism
+RTaking You With Me
+RColorvoid
+RFlames of Light
+RHurricane of Fire
+RMagma Blast
+RDarkfire Blast
+BChar the Earth
+BBathed in Light
+BThundercrack
+BColorstorm
+BHelios
+BScraper
+BKlawgor
+BLeefram
+GShadowfire
+GShadow Vortex
+GShadow Lash
+GRain of Shadows
+GRed-Green Combine
+GBlue-Green Combine
+GVendetta
+GOld Enemies
+/

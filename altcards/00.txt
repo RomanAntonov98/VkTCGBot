@@ -1,0 +1,51 @@
+48
+278224116
+sFire Pit
+sMuddy Ground
+sLight-Burst
+sTsunami
+sDusk
+sHigh Energy
+sTornado Alley
+sWhirlpool
+gGargonoid
+gManion
+gMantris
+gTerrorclaw
+gCycloid
+gHynoid
+gTeamwork
+gTuskor
+cCatch-up
+cDuck and Win
+cG-power Exchange
+cStand Off
+cBakugan Swap
+cCard Force
+cPounce
+cStand Your Ground
+RMarucho's Throw
+RJulie's Throw
+RRuno's Throw
+RShun's Throw
+RMasquerade's Throw
+RDan's Throw
+REvil Power
+RRikimaro's Surprise
+BBright Light
+BG-power Boost
+BG-power Bump
+BBlaze
+BHome Advantage
+BPower From Darkness
+BPredictable Opponent
+BSummon Wave
+GPyrus
+GSiege Switch
+GHelp From Friends
+GAquos
+GDarkus
+GDoom Card
+GSub Terra
+GHaos
+/

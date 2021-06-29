@@ -1,0 +1,21 @@
+48
+278868513
+sAshen Gate
+sSummer Gate
+sSpark and Cinder
+sWater Gate
+sAutumn Gate
+sMud and Sprinkle
+gVanishing Moon
+gBumpy Road
+gVoid and Earth
+gStormy Weather
+gSunny Day
+gDust and Light
+cEye of the Storm
+cTidal Surge
+cPrism Lake
+cMuggy Night
+cLow Point Ridge
+cBlue Flame
+/

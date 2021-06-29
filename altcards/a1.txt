@@ -1,0 +1,51 @@
+48
+279184539
+sFire Swamp
+sWindy Sunrise
+sRainy Sunset
+sSteady Land
+sPoint of Light
+sOnce Mainland
+sSilver Spear
+sThe AG Wind
+gGolden Spear
+gHeated Fury
+gDarkened Fury
+gCoredem's Turf
+gAkwimos
+gLumino Dragonoid
+gThe AU Wind
+gKrakix
+cCopper Spear
+cThe Doom Trick
+cDark Reflection
+cLumagrowl's Trick
+cThe CU Wind
+cDoom Field
+cTwisted Heat
+cDead Zone
+RStone Rain Start
+RTease
+RBig and Solid	
+RPracticed Water
+RSabator
+RHakapoid
+RTear Mind
+RPower Drain
+BA Sleek Jab
+BEnchanted Silver
+BG-Power Lift
+BSilver Scream
+BDark Stomp
+BEarth Stomp
+BLate Sunset
+BLate Earthquake
+GToil
+GSilver Doors
+GGolden Benefit
+GCopper Risk
+GReinforced Wind
+GSap Power
+GAranaut
+GReinforced Water
+/

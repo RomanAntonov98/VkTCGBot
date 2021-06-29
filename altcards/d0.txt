@@ -1,0 +1,51 @@
+48
+278898776
+sGloomy Gate
+sTidal Breeze
+sBaked Soil
+sReflection Gate
+sDeep Tan
+sMoonburn
+sOcean Spray
+sDeep Well
+gPercival Field
+gPleasant Stone
+gFriendly Fire
+gLight in the Dark
+gBuilding Gate
+gConstruction Gate
+gLightning Field
+gGaleforce
+cNeedle's Eye
+cDrain Color
+cCheering Section
+cAnger Rooms
+cTri-Color Power
+cTri-Color Boost
+cShades of Death
+cFury's Gate
+RFire Wind
+RWater Wind
+RLight Wind
+RDark Wind
+RFire Stone
+RWater Stone
+RLight Stone
+RDark Stone
+BCopper Launcher
+BBronz Launcher
+BGolden Launcher
+BPip
+BTrap Squeeze
+BTrap Squash
+BTrap Slam
+BClean House
+GClean House
+GVentus Hex
+GDarkus Hex
+GRock On
+GPower Card Alpha
+GPower Card Zeta
+GCounter Trap Alpha
+GCounter Trap Beta
+/

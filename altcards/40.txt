@@ -1,0 +1,51 @@
+48
+278806116
+sSpitting Fire
+sEarthen Wave
+sSun Spot
+sBlack Hole
+sWind Farm
+sWhirlpool
+sFields of Lava
+sBlue Sky
+gWavern
+gExedra
+gApollonir
+gClayf 
+gOberus
+gCrushing Blow
+gSwift Blow
+gFrosch
+cMagma Fields
+cCharging Ground
+cBlurred Heat
+cWind Swept Caverns
+cNaga
+cChum
+cMana Surge
+cGrand Exchange
+RMinefield
+RBrainwash
+RDistraction
+RGo For Perfect
+RTake Two
+RMirage
+RRestock
+RLearn From Experience
+BThe Glow
+BThe Shadow
+BThe Gust
+BBig Brawl
+BPit Fight
+BColor Shift
+BLate Surge
+BGet It Right Next Time
+GEarth Shutdown
+GFire Shutdown
+GWater Shutdown
+GWind Shutdown
+GLars Lion
+GLight Shutdown
+GColor Swap
+GThe Right Tool for the Job
+/

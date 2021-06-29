@@ -1,0 +1,51 @@
+48
+278865104
+sGate of Fire
+sGate of Wind
+sGate of Doom
+sTriangle Gate
+sGate of Light
+sGate of Earth
+sRiver Gate
+sThree Gate
+gNemus
+gDragonoid
+gPercival
+gIngram
+gHolding Power
+gBrontes
+gProper Motivation
+gGlamour Gate
+cLow Bridge
+cWindy Beach
+cOpen Field
+cRainbow
+cField of Flames
+cField of Dread
+cResupply
+cCursed Mirror
+RRip Tide
+RHard Rain
+RLightning
+RStormy Night
+RCall of the Hex
+RCall of the Defenders
+RDeadly Lync Volan #6
+RGus's Powerblast
+BTurn Around
+BBright Eyes
+BPowder Keg
+BSparks
+BHeavy Water
+BDark Hole
+BDusty Sparkle
+BBurning Sands
+GSolar Winds
+GBright Earth
+GBright Torch
+GBlinding Reflection
+GDire Reaper
+GHercules
+GShiny Devil
+GNever Give Up!
+/

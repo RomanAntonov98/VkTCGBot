@@ -1,0 +1,21 @@
+18
+278867927
+sRed Soil
+sDirty Flames
+sTurn Up the Heat
+sBuried Vault
+sLava Flow
+sHot Rocks
+gStinging Breeze
+U--
+gHigh Gate
+gPrism Gate
+gBracing Gate
+gSun Chains
+cDark Dream Gate
+cPool of Dreams
+cBlackness Gate
+cShimmering Gate
+cEmpty Gate
+cSlippery Gate
+/

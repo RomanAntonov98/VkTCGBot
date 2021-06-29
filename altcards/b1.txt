@@ -1,0 +1,51 @@
+48
+279185320
+sVR Arena Number 5
+sVR Arena Number 6
+sVR Arena Number 7
+sVR Arena Number 8
+sPebbles
+sSmall Wave
+sSilver Axe
+sAG Mountain
+gGolden Axe
+gQuickened Fury
+gDharak's Turf
+gDrago's Turf
+gHawktor
+gPlitheon
+gAU Mountain
+gLinehalt
+cCopper Axe
+cFire Dodge
+cTransfer Air
+cBridge of Light
+cCU Mountain
+cLure of Fire
+cSmall Field
+cDoom Zone
+RSun Fire Start
+RPracticed Light
+RBig and Mysterious
+RPracticed Earth
+RContestir's Gambit
+RWater Home
+RCharge of Fire
+RPower of Earth
+BWave Punch
+BHidden Flame
+BStep-Up G-Power
+BClean Machine
+BErosion
+BDusted Gear
+BWater Stomp
+BLate Fire
+GLythirus
+GExploding Gear
+GFull Production
+GMagnetic Copper
+GSunrise Level
+GDark Drop
+GRubanoid
+GEarth Metals
+/

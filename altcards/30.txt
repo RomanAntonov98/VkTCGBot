@@ -1,0 +1,51 @@
+48
+278805284
+sAquos Vortex
+sPowder Keg
+sHeavy Surf
+sThe Cliffs
+sVacuum
+sPit Dweller
+sNightmare
+sThe Spires
+gMonarus
+gHarpus
+gFourtress
+gSirenoid
+gRattleoid
+gLone Wolf
+gEthereas
+gEl Condor
+cG-Power Swap
+cLock & Load
+cLift
+cBait
+cDrain Power
+cSpecial Help
+cHigh Voltage
+cSting
+RRuno's Launcher
+RMasquerade's Launcher
+RMarucho's Launcher
+RJulie's Launcher
+RStealin'
+RCombo Battle
+RShun's Launcher
+RDan's Launcher
+BDarkfire Color Shift
+BLightwind Color Shift
+BBrushfire
+BG-Power Increase
+BTriangle of Power
+BPower Triangle
+BSpecial Bump
+BSpecial Boost
+GTouch with Fire
+GFlowing Waters 
+GSee the Light 
+GDarkness to Victory 
+GStrong Winds Blow 
+GGround
+GBee Striker
+GTentaclear
+/

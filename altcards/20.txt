@@ -1,0 +1,51 @@
+48
+278804980
+sEarthen Mound
+sElevated Field
+sForce Wind
+sLow Energy
+sSand Storm
+sHaunted Night
+sSunrise
+sVolcanic Lake
+gLimulus
+gRavenoid
+gWarius
+gWormquake
+gForest Fire
+gGorem
+gLightning Storm
+gSkyress
+cDrag
+cLockdown
+cRainbow
+cTricky Gate
+cEarth, Wind & Fire
+cG-Power Exchange
+cQuick Charge
+cRiver Styx
+RMagnetic Action
+RMeeting Place
+RPerfect Aim
+RUnexpected Guest
+RClean Slate
+RA Hand Up
+RMarionette
+RStuck
+BFlash
+BG-Power Bonus
+BG-Power Up
+BDark Growth
+BCircle of Fire
+BSpecial Boost
+BSpecial Crush
+BUpdraft
+GAquos 2
+GHaos 2
+GPreyas Switch
+GTigrerra
+GDarkus 2
+GPyrus 2
+GSub Terra 2
+GVentus 2
+/
